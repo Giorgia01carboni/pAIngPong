@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C0080376-03E4-66D1-FAFD-83CF20F9F061}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/config/PingPong.yaml">
+    <Files>
+      <File FileName="Assets/Scripts/Disk.cs" Line="48" Column="46" />
+      <File FileName="Assets/Scripts/PaddleAgent.cs" Line="20" Column="33" />
+      <File FileName="Assets/config/PingPong.yaml" Line="15" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pingpAIng" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Disk.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db4e528e-c738-4536-988c-4a42acaa7b69" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
